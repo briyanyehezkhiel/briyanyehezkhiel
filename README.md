@@ -64,7 +64,6 @@ Saya sangat antusias pada perkembangan Teknologi dengan pengalaman organisasi da
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=briyanyehezkhiel&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=briyanyehezkhiel&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briyanyehezkhiel&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
