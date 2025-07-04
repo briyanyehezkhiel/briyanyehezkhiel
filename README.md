@@ -82,7 +82,7 @@ Saya sangat antusias pada perkembangan Teknologi dengan pengalaman organisasi da
 
 ## 📬 Hubungi Saya
 
-📍 Medan, Indonesia
+📍 Medan, Indonesia <br>
 📧 Email: [briyanyehezkhiel@gmail.com](mailto:briyanyehezkhiel@gmail.com)
 📱 Instagram: [@briyanyehezkhiel](https://www.instagram.com/briyanyehezkhiel/)
 💼 LinkedIn: [linkedin.com/in/briyanyehezkhiel](https://www.linkedin.com/in/briyanyehezkhiel)
