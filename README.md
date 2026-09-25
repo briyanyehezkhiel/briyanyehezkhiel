@@ -31,7 +31,6 @@ My interests include building practical software solutions, developing web appli
 - 🖥️ IT Operations & Technical Support
 - 🤖 Artificial Intelligence & Machine Learning
 - 🔎 Retrieval-Augmented Generation (RAG)
-- 📊 Data Processing & Analysis
 - 🌱 Open to full-time opportunities and collaboration
 
 ---
@@ -39,6 +38,7 @@ My interests include building practical software solutions, developing web appli
 ## 🚀 Featured Projects
 
 ### 📁 Arsip Seksi V
+
 Web-based archive management system developed for **Kantor Pertanahan Kota Medan**.
 
 **Technologies:** Laravel, Filament, Tailwind CSS, MySQL
@@ -145,6 +145,16 @@ AI-based application that processes text input and provides an interactive chatb
 - **Public Relations Coordinator — PMB Ilmu Komputer 2024**
 - **Member — IMILKOM, Division of Contemporary Insights**
 - **Speaker — Soft Skill Training: "Kebutuhan AI dalam Optimalisasi Kinerja"**
+
+---
+
+## 📄 Publications & Conferences
+
+- **ISIBER 2026 — Presenter & Author**  
+  Twitter network interaction modeling using Leiden and Louvain algorithms.
+
+- **ISIBER 2026 — Author**  
+  SDN optimization framework balancing latency and carbon emissions.
 
 ---
 
